@@ -11,7 +11,8 @@ This repository tracks the progress of the Descriptive and Predictive Deep Learn
 5. **NBI_Comparative_Exploration.ipynb:** This notebook provides a brief examination of the quantity of non-null entries available for unique bridge IDs for the latest and most recent years of data provided by NBI. 
 6. **NBI_Time_Series_Data_For_Clustering.ipynb:** This notebook specifically prepares our NBI data for an initial clustering test. It arranges each bridge ID as a time series for a period of 22 time steps, performing data holding for missing values.
 7. **NBI_Weather_data_exploration.ipynb:** This notebook includes early exploration of NBI and NOAA data. Useful code is contained in this notebook for handling conversion of coordinate formats from NBI and NOAA data for proper integration. This notebook also records studies of the geospatial locations of bridges and weather stations.
-8. **NOAA_Dataset_Exploration:** This notebook is a very early exploration of the NOAA dataset. It aims to understand the structure of the dataset as well as what type of data is contained within it.
+8. **NOAA_Dataset_Exploration.ipynb:** This notebook is a very early exploration of the NOAA dataset. It aims to understand the structure of the dataset as well as what type of data is contained within it.
+8. **lstm_time_series_forecasting.ipynb:** This notebook contains the code for the lstm bridge forecasting. This link was used to set up the environment for gpu utilization: https://towardsdatascience.com/setting-up-tensorflow-on-windows-gpu-492d1120414c. The Anaconda environment name for reference was called tf_bridge_management and the Jupyter Notebook kernel name was tf_bridge_management_kernel.
 
 In addition to these notebooks, various excel and csv files are included that the notebooks utilize.
 
