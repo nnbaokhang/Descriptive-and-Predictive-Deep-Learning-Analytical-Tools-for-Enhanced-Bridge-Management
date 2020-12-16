@@ -14,6 +14,8 @@ This repository tracks the progress of the Descriptive and Predictive Deep Learn
 8. **NOAA_Dataset_Exploration.ipynb:** This notebook is a very early exploration of the NOAA dataset. It aims to understand the structure of the dataset as well as what type of data is contained within it.
 8. **lstm_time_series_forecasting.ipynb:** This notebook contains the code for the lstm bridge forecasting. This link was used to set up the environment for gpu utilization: https://towardsdatascience.com/setting-up-tensorflow-on-windows-gpu-492d1120414c. The Anaconda environment name for reference was called tf_bridge_management and the Jupyter Notebook kernel name was tf_bridge_management_kernel.
 9. **simple_dense_time_series_forecasting.ipynb:** This notebook contains code for simple dense bridge forecasting. The individual time series are flattened into one dimensional arrays for training on a simple Dense architecture.
+10. **bidirectional_lstm_time_series_forecasting.ipynb:** This notebook contains code for bidirectional lstm bridge forecasting.
+11. **cnn_time_series_forecasting.ipynb:** This notebook contains code for cnn bridge forecasting. The individual time series are formed into matrices that the cnn accepts.
 
 In addition to these notebooks, various excel and csv files are included that the notebooks utilize.
 
