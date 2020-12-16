@@ -16,6 +16,7 @@ This repository tracks the progress of the Descriptive and Predictive Deep Learn
 9. **simple_dense_time_series_forecasting.ipynb:** This notebook contains code for simple dense bridge forecasting. The individual time series are flattened into one dimensional arrays for training on a simple Dense architecture.
 10. **bidirectional_lstm_time_series_forecasting.ipynb:** This notebook contains code for bidirectional lstm bridge forecasting.
 11. **cnn_time_series_forecasting.ipynb:** This notebook contains code for cnn bridge forecasting. The individual time series are formed into matrices that the cnn accepts.
+12. **gru_time_series_forecasting.ipynb:** This notebook contains code for gru bridge forecasting. 
 
 In addition to these notebooks, various excel and csv files are included that the notebooks utilize.
 
