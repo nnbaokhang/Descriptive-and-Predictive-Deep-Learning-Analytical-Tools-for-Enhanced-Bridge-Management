@@ -17,6 +17,7 @@ This repository tracks the progress of the Descriptive and Predictive Deep Learn
 10. **bidirectional_lstm_time_series_forecasting.ipynb:** This notebook contains code for bidirectional lstm bridge forecasting.
 11. **cnn_time_series_forecasting.ipynb:** This notebook contains code for cnn bridge forecasting. The individual time series are formed into matrices that the cnn accepts.
 12. **gru_time_series_forecasting.ipynb:** This notebook contains code for gru bridge forecasting. 
+13. **weather_and_bridge_data_concatenation.ipynb:** This notebook contains code for concatenating the weather data to the NBI dataset for time series analysis. 
 
 In addition to these notebooks, various excel and csv files are included that the notebooks utilize.
 
