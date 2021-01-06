@@ -20,6 +20,7 @@ This repository tracks the progress of the Descriptive and Predictive Deep Learn
 13. **weather_and_bridge_data_concatenation.ipynb:** This notebook contains code for concatenating the weather data to the NBI dataset for time series analysis. It also writes these time series as rows in a dataframe to a .csv file.
 14. **tcn_time_series_forecasting.ipynb:** This notebook contains code for tcn bridge forecasting. Utilizes this keras-tcn implementation: https://github.com/philipperemy/keras-tcn
 15. **cnn_with_bilstm_time_series_forecasting.ipynb:** This notebook contains code for cnn + bidirectional lstm bridge forecasting.
+15. **multi_channel_cnn_time_series_forecasting.ipynb:** This notebook contains code for multi-channel cnn bridge forecasting.
 
 In addition to these notebooks, various excel and csv files are included that the notebooks utilize.
 
